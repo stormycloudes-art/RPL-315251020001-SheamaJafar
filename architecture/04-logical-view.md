@@ -1,5 +1,7 @@
 # Logical View
 
+The Online E-commerce System consists of several modules that work together to support customer ordering, payment processing, inventory management, and order fulfillment.
+
 ## Main Modules
 
 - User Management
@@ -8,14 +10,15 @@
 - Order Management
 - Payment Processing
 - Inventory Management
-- Reporting
+- Notification Management
 
 ## Module Relationships
 
-- Customers interact with the User Management module to log in.
-- Customers browse products through Product Management.
-- Selected products are stored in the Shopping Cart.
-- Checkout creates an order in Order Management.
-- Payment Processing verifies customer payments.
-- Inventory Management updates product stock after successful purchases.
-- Reporting generates sales and transaction reports for administrators.
+- Customers interact with the User Management module to register and log in.
+- Customers browse and search products through the Product Management module.
+- Selected products are stored in the Shopping Cart before checkout.
+- Checkout creates an order in the Order Management module.
+- Payment Processing communicates with the Payment Gateway to process and verify customer payments.
+- Inventory Management updates product stock after a successful order is created.
+- Notification Management sends order status updates and shipping notifications to customers.
+- Administrators manage products, process orders, update order status, and monitor inventory.
