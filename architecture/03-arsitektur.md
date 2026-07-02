@@ -1,23 +1,25 @@
-# Software Architecture
-
 ## Architecture Style
 
 The Online E-commerce System uses a Layered Architecture.
 
-### Layers
+## Layers
 
-1. Presentation Layer
-   - User interface for customers and administrators.
+### 1. Presentation Layer
 
-2. Business Logic Layer
-   - Handles authentication, order processing, shopping cart management, and business rules.
+- User interface for customers and administrators.
 
-3. Data Access Layer
-   - Manages communication between the application and the database.
+### 2. Business Logic Layer
 
-4. Database Layer
-   - Stores user accounts, products, orders, payments, and inventory information.
+- Handles authentication, product management, shopping cart management, order processing, payment processing, inventory management, notification management, and business rules.
+
+### 3. Data Access Layer
+
+- Manages communication between the application and the database.
+
+### 4. Database Layer
+
+- Stores user accounts, products, shopping carts, orders, payment records, inventory information, and notification records.
 
 ## Reason for Choosing Layered Architecture
 
-Layered architecture separates responsibilities into different layers, making the system easier to develop, maintain, test, and expand in the future.
+Layered Architecture separates responsibilities into different layers, making the system easier to develop, maintain, test, and expand in the future.
