@@ -14,10 +14,13 @@ RPL-315251020001-SheamaJafar/
 ├── maintenance/
 │   └── maintenance-plan.md
 └── architecture/
-    ├── deskripsi-sistem.md
-    ├── quality-attributes.md
-    ├── arsitektur.md
-    ├── logical-view.md
-    └── physical-view.md
+    ├── 01-deskripsi-sistem.md
+    ├── 02-quality-attributes.md
+    ├── 03-arsitektur.md
+    ├── 04-logical-view.md
+    ├── 05-physical-view.md
+    └── images/
+        ├── Tugas3 RPL-Page-1.jpg
+        └── Tugas3 RPL-Page-2.jpg
     
 
