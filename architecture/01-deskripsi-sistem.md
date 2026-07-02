@@ -10,7 +10,7 @@ The Online E-commerce System allows customers to browse products, make purchases
 - Customer
 - Administrator
 ## secondary Users
--Payment Gateway
+- Payment Gateway
 
 ## Main Features
 - User Registration and Login
