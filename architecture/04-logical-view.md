@@ -22,3 +22,15 @@ The Online E-commerce System consists of several modules that work together to s
 - Inventory Management updates product stock after a successful order is created.
 - Notification Management sends order status updates and shipping notifications to customers.
 - Administrators manage products, process orders, update order status, and monitor inventory.
+
+## Activity Diagram
+
+The following activity diagram illustrates the order processing workflow of the Online E-commerce System.
+
+![Activity Diagram](images/Tugas3%20RPL-Page-2.jpg)
+
+## Use Case Diagram
+
+The following use case diagram illustrates the interactions between the Customer, Administrator, Payment Gateway, and the Online E-commerce System.
+
+![Use Case Diagram](images/Tugas3%20RPL-Page-1.jpg)
