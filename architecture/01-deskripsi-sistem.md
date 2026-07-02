@@ -23,3 +23,4 @@ The Online E-commerce System allows customers to browse products, make purchases
 - Product Management
 - Inventory Management
 - Order Management
+- Order Notification Management
