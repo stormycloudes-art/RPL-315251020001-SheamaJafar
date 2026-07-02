@@ -15,4 +15,4 @@ The Online E-commerce System is deployed using the following components:
 - Stores user accounts, product information, shopping carts, orders, payment records, inventory data, and notification records.
 
 ## Network
-Users connect to the web server through the Internet. The web server communicates with the application server, which accesses the database server to retrieve and store information. The application server also communicates securely with the external Payment Gateway to process online payments.
+- Users connect to the web server through the Internet. The web server communicates with the application server, which accesses the database server to retrieve and store information. The application server also communicates securely with the external Payment Gateway to process online payments.
